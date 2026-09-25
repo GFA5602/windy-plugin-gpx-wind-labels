@@ -1,0 +1,14 @@
+{
+  "name": "windy-plugin-gpx-wind-labels",
+  "version": "0.1.0",
+  "icon": "⛵",
+  "title": "GPX Wind Labels",
+  "description": "Affiche les points GPX avec leur date, la direction et la vitesse du vent.",
+  "author": "Gaël Fabry",
+  "private": true,
+  "desktopUI": "rhpane",
+  "mobileUI": "fullscreen",
+  "built": 1790331939646,
+  "builtReadable": "2026-09-25T10:25:39.646Z",
+  "screenshot": "screenshot.jpg"
+}
